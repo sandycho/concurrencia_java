@@ -1,3 +1,5 @@
+package ProductorConsumidorEsperaActivaJavaStandard;
+
 import java.util.concurrent.Semaphore;
 
 public class ProductorConsumidorJavaStandar {
