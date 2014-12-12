@@ -1,4 +1,4 @@
-package MainMensajeInterrupcionThread;
+package E_2_Main_Mensajes_Interrupcion.MainMensajeInterrupcionThread;
 
 /**
  * Se desea implementar en Java un programa con dos hilos, el hilo principal
