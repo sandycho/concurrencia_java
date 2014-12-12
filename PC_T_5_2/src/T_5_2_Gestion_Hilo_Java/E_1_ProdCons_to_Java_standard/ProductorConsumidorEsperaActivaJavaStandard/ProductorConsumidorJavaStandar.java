@@ -1,4 +1,4 @@
-package E_1_ProdCons_to_Java_standard.ProductorConsumidorEsperaActivaJavaStandard;
+package T_5_2_Gestion_Hilo_Java.E_1_ProdCons_to_Java_standard.ProductorConsumidorEsperaActivaJavaStandard;
 
 import java.util.concurrent.Semaphore;
 
